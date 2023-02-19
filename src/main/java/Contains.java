@@ -16,7 +16,6 @@ public class Contains {
             if (arr[i] == target) {return true;}
             
         }
-        return false;
-        
+        return false;    
     }
 }
